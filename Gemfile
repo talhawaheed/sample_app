@@ -6,6 +6,12 @@ gem 'rails', '4.2.0'
 
 group :development do
 	gem 'sqlite3'
+	gem 'rspec-rails'
+	gem 'guard-rspec'
+
+	gem 'spork-rails'
+  	gem 'guard-spork'
+  	gem 'childprocess'
   
   	# Call 'byebug' anywhere in the code to stop execution and get a debugger console
   	gem 'byebug'
@@ -20,7 +26,6 @@ end
 
 group :test do
 	gem 'selenium-webdriver'
-	gem 'rspec-rails'
 	gem 'capybara'
 end
 
