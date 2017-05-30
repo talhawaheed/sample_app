@@ -1,0 +1,47 @@
+commit 1aedae4735835806bd584b59755dbca51dfab651
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Tue May 30 10:30:49 2017 +0500
+
+    secind day commit after guard settings
+
+commit 099629b4cd5433331b2d8aa554c36aa8e37ac6fe
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Mon May 29 13:15:55 2017 +0500
+
+    Finished Static Pages
+
+commit 2111eab4546578bae0d9cfebb01ecd4fcb08c99e
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Mon May 29 12:12:11 2017 +0500
+
+    updae schema.rb
+
+commit 395ba0ee3f7bf18a97ec02a5698f4f9f4726dd80
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Mon May 29 12:09:56 2017 +0500
+
+    Test initialized and working
+
+commit 11d2067c5fd7e677c7c6f7072dfb68f675bf16e1
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Fri May 26 17:18:21 2017 +0500
+
+    Added Hello Word
+
+commit b6ed6a2c703a6606a1ac45bb428e20cb8a1d1703
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Fri May 26 16:54:18 2017 +0500
+
+    created the controller
+
+commit 1de13324833a2c32791fe13cf3577f535a0a3b67
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Fri May 26 15:55:53 2017 +0500
+
+    Improve the Readme
+
+commit 867308112cd3350bd6664d8235dc9317f89660de
+Author: Talha Waheed <talhawaheed92@gmail.com>
+Date:   Fri May 26 15:52:56 2017 +0500
+
+    Initial commit
